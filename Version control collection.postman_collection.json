@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "ff54559f-5b7d-489c-80a0-2562087eb39d",
+		"name": "Version control collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Request 1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "example.com",
+					"host": [
+						"example",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
