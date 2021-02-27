@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "My first request",
+			"name": "My second request",
 			"request": {
 				"method": "GET",
 				"header": [],
